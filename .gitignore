@@ -128,3 +128,7 @@ dmypy.json
 inputs/csv/
 
 inputs/jpeg/
+
+notebooks/CBIS-DDSM/csv/
+
+notebooks/CBIS-DDSM/jpeg/
