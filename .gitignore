@@ -129,6 +129,8 @@ inputs/csv/
 
 inputs/jpeg/
 
+venv
+
 notebooks/CBIS-DDSM/csv/
 
 notebooks/CBIS-DDSM/jpeg/
